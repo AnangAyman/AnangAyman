@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayman</h1>
 <h3 align="center">An aspiring Software Engineer from Indonesia</h3>
-<img align="right" alt="coding" width="400" src="https://gist.github.com/mahmudinm/47588cab5af928d2c8a2976d90216ea7">
+<img align="right" alt="coding" width="400" src="https://sitiodavovo.com.br/coding-gifs-kk-YYQyAXUN">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anangayman&label=Profile%20views&color=0e75b6&style=flat" alt="anangayman" /> </p>
 
