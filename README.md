@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayman</h1>
 <h3 align="center">An aspiring Software Engineer from Indonesia</h3>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fmahmudinm%2F47588cab5af928d2c8a2976d90216ea7&psig=AOvVaw2X4ivbxlTxQNsq1TzOI5GT&ust=1711806685584000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi10fzOmYUDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anangayman&label=Profile%20views&color=0e75b6&style=flat" alt="anangayman" /> </p>
 
