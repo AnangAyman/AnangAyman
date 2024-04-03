@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/gist/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
 <h1 align="center">Hi 👋, I'm Ayman</h1>
-<h3 align="center">An aspiring Software Engineer from Indonesia</h3>
+<h3 align="center">An aspiring Software Engineer</h3>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
